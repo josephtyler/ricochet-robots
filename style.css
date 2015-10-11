@@ -1,0 +1,41 @@
+.square {
+  height: 100px;
+  width: 100px;
+  border: 1px solid #eee;
+  __display: inline-block;
+  float: left;
+}
+
+.row {
+  height: 100px;
+  float: left;
+  clear: both;
+}
+
+.north {
+  border-top: 1px solid #000;
+}
+
+.south {
+  border-bottom: 1px solid #000;
+}
+
+.east {
+  border-right: 1px solid #000;
+}
+
+.west {
+  border-left: 1px solid #000;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.destination {
+  background-color: black;
+}
