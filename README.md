@@ -1,1 +1,1 @@
-# ricochet-robots
+# Ricochet Robots
